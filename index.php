@@ -2,7 +2,7 @@
 <html>
 <head>
 	<link rel="stylesheet" type="text/css" href="css/style.core.css">
-	<title>Homepage</title>
+	<title>Minecraft Server</title>
 </head>
 <body>
 	<center><div class="page">
