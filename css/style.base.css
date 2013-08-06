@@ -1,8 +1,9 @@
 body{
-	background: #333;
+	background: #333 url(http://cdn.planetminecraft.com/images/layout/themes/site/backgroundv2.png);
 	margin: 0px;
 	padding: 0px;
 	height: 0px;}
 .page{
 	background: #D8D8D8;
 	border: #000 1px solid;}
+	
